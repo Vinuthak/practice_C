@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640987880 source:/home/vinutha/Desktop/Ex0101/main.c
+	<stdio.h>
+	<stdlib.h>
+
